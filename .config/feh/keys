@@ -1,0 +1,8 @@
+
+# quit with CTL-ALT-F12
+# not all at once, but one key after the other
+
+quit C A F12
+close  C A F12
+
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/slideshow/bin/slideshow.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Slideshow
+Name=Slideshow
+Comment[en_US]=
+Comment=quit feh with CTL ALT F12, pressed in that order, one at a time - see ~/.config/feh/keys
