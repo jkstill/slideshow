@@ -87,6 +87,24 @@ tar xvf slideshow.tar
 
 It is assumed that photos are found in the `~/slides` directory. You can modify the `slideshow.sh` script to point to a different directory if needed.
 
+Once install, just login as the `slideshow` user, and the slideshow should start automatically.
+
+If you do quit the slideshow with the ALT CTL F12 keys, it will restart automatically after a few seconds.
+
+## My Setup
+
+I am using a [Bosgame N95](https://www.bosgame.com/products/bosgame-mini-pc-n95?_pos=1&_psq=n95&_ss=e&_v=1.0&variant=45690176340131)  4 with Ubuntu 24.4 LTS Desktop installed. 
+
+The display is an inexpensive [Samsung](https://www.samsung.com/us/computing/monitors/smart-monitors/24-s3-s30gd-fhd-ips-100hz-monitor-ls24d300ganxza/) standard computer monitor connected via HDMI.
+
+The setup is mounted on an Ergotron Wall Mount Arm to allow for easy positioning.
+
+The photos are all stored on the internal storage of the Bosgame N95.
+
+Photos of the setup:
+
+<img src="images/slideshow-bosgame-ergotron.jpg" alt="Bosgame Computer and Ergotron Arm" style="width:50%; height:auto;" />
+<img src="images/slideshow-samsung.jpg" alt="Samsung Monitor Displaying Images" style="width:50%; height:auto;" />
 
 
 
